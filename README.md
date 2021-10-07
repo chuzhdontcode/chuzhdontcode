@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rchuzh99
 - 👀 I’m interested in Machine Learning and IoT 🤖
-- 🌱 I’m currently learning Python🐍 and Javascript🌐!
+- 🌱 I’m currently learning Python🐍 and Typescript🌐!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
