@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rchuzh99
 - 👀 I’m interested in AI/ML🧠 and IoT 🤖
-- 🌱 I’m currently learning Python🐍 and Typescript🌐!
-- 👩🏻‍💻 I’m currently working on Generative AI 🎨
+- 👩🏻‍💻 I’m currently working on AI/ML platform and Generative AI 🎨
 - 💞️ I’m looking to collaborate on AI/ML projects🧠!
 - 📫 How to reach me: chu_zhen_hao@outlook.com or www.linkedin.com/in/zhen-hao-chu
 
