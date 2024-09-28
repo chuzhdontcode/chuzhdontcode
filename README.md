@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I’m currently working on AI/ML platform and Generative AI 🎨
 - 💞️ I’m looking to collaborate on AI/ML projects🧠!
 
-## Let's Connect!
+## Let's Connect! 🫱🏻‍🫲🏻
 
 <div style="display: grid; grid-template-columns: repeat(2, 40%); gap: 100px; margin-bottom: 200px;">
   <a href="mailto:chu_zhen_hao@outlook.com">
@@ -15,7 +15,7 @@
 </div>
 
 
-# Activities
+# Recent Crunch ⚡
 [![rchuzh99's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchuzh99&show=discussions_started,prs_merged&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
