@@ -19,6 +19,11 @@
 [![rchuzh99's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchuzh99&show=discussions_started,prs_merged&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2787](https://github.com/open-mmlab/mmdeploy/issues/2787#issuecomment-2376185168) in [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+2. 🗣 Commented on [#2787](https://github.com/open-mmlab/mmdeploy/issues/2787#issuecomment-2373898141) in [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+3. 🗣 Commented on [#2787](https://github.com/open-mmlab/mmdeploy/issues/2787#issuecomment-2203116740) in [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+4. ❗ Opened issue [#2787](https://github.com/open-mmlab/mmdeploy/issues/2787) in [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+5. 🗣 Commented on [#2534](https://github.com/open-mmlab/mmdeploy/issues/2534#issuecomment-2202548874) in [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 <!--END_SECTION:activity-->
 
 <!---
