@@ -3,18 +3,6 @@
 - 👩🏻‍💻 I’m currently working on AI/ML platform and Generative AI 🎨
 - 💞️ I’m looking to collaborate on AI/ML projects🧠!
 
-## Let's Connect! 🫱🏻‍🫲🏻
-
-<div style="display: grid; grid-template-columns: repeat(2, 40%); gap: 100px; margin-bottom: 200px;">
-  <a href="mailto:chu_zhen_hao@outlook.com">
-    <img src="https://github.com/user-attachments/assets/34985b69-96d1-4e62-998d-d9069e1b82a4" alt="Email" style="width: 5%;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zhen-hao-chu">
-    <img src="https://github.com/user-attachments/assets/1450f91d-b6f4-4905-b94b-bd95854c14f7" alt="LinkedIn" style="width: 5%;"/>
-  </a>
-</div>
-
-
 ## Recent Crunch ⚡
 [![chuzhdontcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuzhdontcode&show=discussions_started,prs_merged&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </br>
