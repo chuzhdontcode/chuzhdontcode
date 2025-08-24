@@ -20,7 +20,7 @@ rchuzh99/rchuzh99 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## Contributions
-<div align="centre">
+<div align="centre" style="width: 100px">
   <img src="https://ssr-contributions-svg.vercel.app/_/chuzhdontcode?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=fall&format=svg&weeks=52&theme=green&widget_size=small" alt="SSR Contributions"/>
 <div/>
 
