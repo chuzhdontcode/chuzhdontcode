@@ -3,8 +3,6 @@
 - 👩🏻‍💻 I’m currently working on AI/ML platform and Generative AI 🎨
 - 💞️ I’m looking to collaborate on AI/ML projects🧠!
 
-## Recent Crunch ⚡
-
 
 <!---
 rchuzh99/rchuzh99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
